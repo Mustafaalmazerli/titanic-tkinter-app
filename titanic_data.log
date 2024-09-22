@@ -1,0 +1,4 @@
+2024-09-20 10:50:00,723 - DEBUG - Running job Job(interval=1, unit=days, do=job, args=(), kwargs={})
+2024-09-20 10:50:00,742 - INFO - Data successfully read.
+2024-09-20 10:50:00,757 - INFO - Data successfully processed.
+2024-09-20 10:50:00,789 - INFO - Data successfully saved to the database.
