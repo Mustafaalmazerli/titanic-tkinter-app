@@ -31,7 +31,7 @@ class TitanicApp:
             command=self.run_process,  
             width=300, height=200,   
             bg="yellow", fg="black",  
-            padx=10, pady=10         # Justera padding så att texten syns bättre
+            padx=10, pady=10    
         )       
         self.run_button.pack(pady=20)
 
